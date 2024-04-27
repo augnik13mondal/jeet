@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a=5
+    int a=6
     int *ptr;
     ptr=&a;
     *ptr=*ptr*5;
